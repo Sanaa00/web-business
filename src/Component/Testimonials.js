@@ -31,7 +31,7 @@ function Testimonials() {
   ];
   return (
     <section
-      id="client"
+      id="clients"
       className={`${style.paddingY} ${style.flexCenter} flex-col relative`}
     >
       <div className="absolute z-[0] w-[60%] -right-[50%] rounded-full blue__gradient" />
